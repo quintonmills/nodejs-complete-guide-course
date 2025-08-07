@@ -17,6 +17,11 @@
   border-radius: 2px;
 }
 
+<<<<<<< HEAD
 .form-control input:focus .form-control textarea:focus {
+=======
+.form-control input:focus,
+.form-control textarea:focus {
+>>>>>>> 3d745db (load product data)
   outline-color: #00695c;
 }
